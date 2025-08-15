@@ -30,27 +30,27 @@
 
 ### 安装依赖
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 开发模式
 
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### 构建生产版本
 
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ### 预览生产版本
 
-\`\`\`bash
+```bash
 npm run preview
-\`\`\`
+```
 
 ## 📖 使用说明
 
@@ -82,7 +82,7 @@ const KEY = new Uint8Array([0xd6, 0x02, 0x08, 0x00, 0xf4, 0xfe, 0xff, 0x3f, 0x01
 
 ## 📁 项目结构
 
-\`\`\`
+```
 /
 项目录目
 ├── src/                          # 源码根目录
@@ -106,7 +106,7 @@ const KEY = new Uint8Array([0xd6, 0x02, 0x08, 0x00, 0xf4, 0xfe, 0xff, 0x3f, 0x01
 ├── tsconfig.app.json             # 应用代码 TS 配置
 ├── tsconfig.node.json            # Node 环境 TS 配置
 └── vite.config.ts                # Vite 配置
-\`\`\`
+```
 
 ## 🎨 界面特性
 
@@ -151,5 +151,14 @@ const KEY = new Uint8Array([0xd6, 0x02, 0x08, 0x00, 0xf4, 0xfe, 0xff, 0x3f, 0x01
 - 自动主题切换功能
 
 ---
+
+## 📄 版权与许可
+
+本作品采用 [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0) 开源协议。
+
+版权所有 © 2025 创梦星际
+
+在遵守 Apache 2.0 协议的前提下，您可以自由地使用、复制、修改和分发本作品。  
+有关许可的详细信息，请访问 [Apache License 2.0 全文](http://www.apache.org/licenses/LICENSE-2.0)。
 
 如果这个项目对您有帮助，请给个 ⭐ Star 支持一下！
