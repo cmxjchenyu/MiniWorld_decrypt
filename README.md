@@ -129,7 +129,7 @@ const KEY = new Uint8Array([0xd6, 0x02, 0x08, 0x00, 0xf4, 0xfe, 0xff, 0x3f, 0x01
 
 ## 🔗 相关链接
 
-- **官方网站**: [https://www.scmgzs.top/](https://www.scmgzs.top/)
+- **官方网站**: [https://blog.picklight.cn/](https://blog.picklight.cn/)
 - **官方QQ群**: 1012670256
 
 ## 👨‍💻 作者信息
